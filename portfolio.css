@@ -57,7 +57,7 @@ header p {
 }
 
 #intro {
-  background-image: url(Animated\ Shape.svg);
+  background-image: url(images/Animated\ Shape.svg);
   background-size: cover;
   background-repeat: no-repeat;
   height: 100vh;
@@ -75,7 +75,7 @@ header p {
 }
 
 .introText {
-  width: 50vw;
+  width: 40vw;
 }
 
 .shortIntro {
@@ -540,7 +540,7 @@ footer p {
 
   .shortIntro {
     width: 100%;
-    font-size: 1.1em;
+    /* font-size: 1.1em; */
   }
 
   .facePic {
